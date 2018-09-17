@@ -1,0 +1,9 @@
+.planet { /* stylelint-disable */
+   margin: 10px;
+}
+
+.planetListItem {
+   border: 1px solid grey;
+   margin-top: 10px;
+   padding: 10px;
+}
